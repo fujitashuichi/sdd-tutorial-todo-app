@@ -1,9 +1,9 @@
 SDD(Spec-Driven Development) を練習するためのToDoアプリです
 
 ## SDD とは
-Spec = Specification: 仕様
-Driven: ～で駆動している
-Development: 開発
+* Spec = Specification: 仕様
+* Driven: ～で駆動している
+* Development: 開発
 
 繋げると、「仕様で駆動している開発」です。
 AIに仕様書を渡して出力させたコードを人間がレビュー・修正して開発する手法のことをこう呼びます。
