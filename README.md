@@ -13,3 +13,4 @@ AIに正確に伝わるような仕様書作成を意図しており、人間向
 このポートフォリオでは、人間用の要件（要件定義）とAI用の要件（Spec）を分けて使います。
 
 [要件定義](./docs/reqirements/)
+[specification](./docs/specs/app-spec.md)
