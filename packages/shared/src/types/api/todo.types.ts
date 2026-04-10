@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { TodoWithoutTimeSchema } from "../domain";
+import { TodoWithoutTimeSchema } from "../domain/index.js";
 
 
 export const PostTodoReqSchema = TodoWithoutTimeSchema.omit({

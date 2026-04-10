@@ -1,1 +1,1 @@
-export * as Types from "./types/index"
+export * as Types from "./types/index.js"
