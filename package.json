@@ -1,0 +1,24 @@
+{
+  "name": "sdd-tutorial-todo-app",
+  "version": "1.0.0",
+  "description": "SDD(Spec-Driven Development) を練習するためのToDoアプリです",
+  "homepage": "https://github.com/fujitashuichi/sdd-tutorial-todo-app#readme",
+  "bugs": {
+    "url": "https://github.com/fujitashuichi/sdd-tutorial-todo-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fujitashuichi/sdd-tutorial-todo-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": ["packages/*"]
+}
