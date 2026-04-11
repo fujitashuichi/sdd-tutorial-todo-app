@@ -1,1 +1,1 @@
-export * as Types from "./types/index.js"
+export * as Shared from "./types/index.js"

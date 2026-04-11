@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@pkg/shared",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
