@@ -17,6 +17,10 @@ AIに正確に伝わるような仕様書作成を意図しており、人間向
 
 ---
 
+## [Kanban](https://github.com/users/fujitashuichi/projects/2/views/1)
+Kanbanによるプロジェクト管理を始めました
+
+
 ## 技術スタック
 
 ### frontend: react-vite
